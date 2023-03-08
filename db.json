@@ -1,0 +1,128 @@
+[
+    {
+        "id": 4,
+        "name": "dummy4",
+        "role": "s",
+        "marks": 80,
+        "mail": "dummy4@gmail.com",
+        "password": "sjdfu3",
+        "asign": [
+            12
+        ]
+    },
+
+
+    {
+        "id": 5,
+        "name": "dummy5",
+        "role": "s",
+        "marks": 70,
+        "mail": "dummy4@gmail.com",
+        "password": "1s333",
+        "asign": [
+            4
+        ]
+    },
+    {
+        "id": 6,
+        "name": "dummy6",
+        "role": "s",
+        "marks": 70,
+        "mail": "dummy5@gmail.com",
+        "password": "1s332",
+        "asign": [
+            7
+        ]
+    },
+    {
+        "id": 8,
+        "name": "dummy8",
+        "role": "s",
+        "marks": 60,
+        "mail": "dummy41@gmail.com",
+        "password": "nuiewy78",
+        "asign": [
+            7,
+            4
+        ]
+    },
+    {
+        "id": 9,
+        "name": "dummy9",
+        "role": "s",
+        "marks": 60,
+        "mail": "dummy55@gmail.com",
+        "password": "nuiewy78",
+        "asign": [
+            7,
+            4
+        ]
+    },
+    {
+        "id": 10,
+        "name": "dummy10",
+        "role": "t",
+        "mail": "dummy10@gmail.com",
+        "password": "nui23ewy78",
+        "asign": [
+            7,
+            4
+        ]
+    },
+    {
+        "id": 7,
+        "name": "dummy87",
+        "role": "t",
+        "mail": "dummy112@gmail.com",
+        "password": "888888",
+        "asign": [
+            1,
+            5
+        ]
+    },
+    {
+        "id": 11,
+        "name": "dummy003",
+        "role": "t",
+        "mail": "dummy002@gmail.com",
+        "password": "1234567",
+        "asign": [
+            1,
+            5
+        ]
+    },
+    {
+        "id": 13,
+        "name": "dummy13",
+        "role": "s",
+        "marks": 79,
+        "mail": "dummy13@gmail.com",
+        "password": "dxavfvuvnc",
+        "asign": [
+            4
+        ]
+    },
+    {
+        "id": 12,
+        "name": "dummy77",
+        "role": "t",
+        "mail": "dummy77@gmail.com",
+        "password": "dxavc",
+        "asign": [
+            8,
+            6
+        ]
+    },
+    {
+        "id": 4,
+        "name": "dummy4",
+        "role": "s",
+        "mail": "dummy3@gmail.com",
+        "password": "1s334",
+        "asign": [
+            1,
+            6
+        ],
+        "marks": 80
+    }
+]
